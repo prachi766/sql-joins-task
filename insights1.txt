@@ -1,0 +1,3 @@
+1. INNER JOIN between customers and invoices shows complete order history with customer details.
+2. LEFT JOIN reveals customers who never placed orders, useful for re-engagement marketing campaigns.
+3. Revenue analysis shows that a small number of tracks and genres contribute the majority of total sales.
